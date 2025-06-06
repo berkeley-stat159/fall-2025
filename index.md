@@ -1,19 +1,7 @@
 ---
-title: 'Dept 999: Generic Description'
-subtitle: 'UC Berkeley, Spring 2024'
+title: 'Stat 159: Reproducible and Collaborative Statistical Data Science'
+subtitle: 'UC Berkeley, Fall 2025'
 ---
-
-<!--div class="staffer">
-  <img class="staffer-image" src="{{ staff_photo }}" height=50 width=50 alt="{{ staff_name }}">
-  <div>
-    <h3 class="staffer-name">
-      <a href="{{ staff_website }}" target="_blank">{{ staff_name }}</a>
-      <p class="staffer-pronouns"><b>{{ staff_pronouns }}</b></p>
-    </h3>
-    <p><a href="mailto:{{ staff_email }}">{{ staff_email }}</a></p>
-    <p><b>Office Hours:</b> {{ staff_oh }}</p>
-  </div>
-</div-->
 
 ::::{grid} 1 2 2 2
 
@@ -44,7 +32,7 @@ subtitle: 'UC Berkeley, Spring 2024'
 
 ::::
 
-:::{attention} Welcome to [Week 2](#week2) of Dept 999!
+:::{attention} Welcome to [Week 1](#week1) of Stat 159!
 :class: dropdown
 :icon: false
 👋
