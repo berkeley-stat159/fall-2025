@@ -85,16 +85,10 @@ project:
     - title: Homework
       children:
         - file: homework/general_info/general_hw_info.md
-        - title: Homework 0
-          children:
-            - file: homework/hw00/hw00.md
-        - title: Homework 1 + Peer Review
-          children:
-            - file: homework/hw01/hw01-description.md
-            - file: homework/hw01/hw01-review-description.ipynb
-        - title: Homework 2
-          children:
-            - file: homework/hw02/hw02-description.ipynb
+        - file: homework/hw00/hw00.md
+        - file: homework/hw01/hw01-description.md
+        - file: homework/hw01/hw01-review-description.ipynb
+        - file: homework/hw02/hw02-description.ipynb            
     - file: ra.md
     - title: Appendix
       children:
