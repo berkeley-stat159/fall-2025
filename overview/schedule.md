@@ -8,7 +8,7 @@ Not all lectures will have slides associated with them, but for those that do, y
 
 ## Official Schedule
 
-:::{schedule} ../schedule.yml
+:::{schedule} schedule.yml
 
 :::
 

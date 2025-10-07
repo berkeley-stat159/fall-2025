@@ -104,7 +104,7 @@ project:
         - file: appendix/contribute.ipynb
 site:
   options:
-    logo: /images/stat_bear.png
+    logo: images/stat_bear.png
     folders: true
   template: book-theme
   title: "Stat 159"
