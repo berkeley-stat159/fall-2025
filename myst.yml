@@ -36,11 +36,11 @@ site:
     logo: 'stat_bear.png'
   nav: []
   actions:
-    #- title: Ed
-    #  url: https://edstem.org
+    - title: Ed
+      url: https://edstem.org/us/courses/84806/discussion
     - title: DataHub
       url: https://stat159.datahub.berkeley.edu
-    #- title: Gradescope
-    #  url: https://www.gradescope.com/courses/564792
+    - title: bCourses
+      url: https://bcourses.berkeley.edu/courses/1546508
   domains:
     - stat159.berkeley.edu
