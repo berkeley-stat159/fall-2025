@@ -7,8 +7,6 @@ project:
     - name: Sequoia Andrade
     - name: Facundo Sapienza (2023 edition)
   copyright: '2025'
-  license:
-    content: CC-BY-4.0
   github: https://github.com/berkeley-stat159/fall-2025
   thebe:
     binder:
@@ -79,7 +77,7 @@ project:
         - file: lab/lab01/lab01.ipynb
         - file: lab/lab02/lab02.ipynb
         - file: lab/lab03/lab03.ipynb
-#        - file: lab/lab04/lab04.ipynb
+        - file: lab/lab04/lab04.ipynb
 #        - file: lab/lab05/lab05.ipynb
 #        - file: lab/lab06/lab06.ipynb
 #        - file: lab/lab07/lab07.ipynb
