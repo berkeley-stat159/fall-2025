@@ -8,7 +8,7 @@ subtitle: 'UC Berkeley, Fall 2025'
 :::{card}
 :header: **Fernando Pérez**
 
-![Fernando Pérez](images/perez.jpg)
+![Fernando Pérez](images/perez.png)
 
 +++
 
