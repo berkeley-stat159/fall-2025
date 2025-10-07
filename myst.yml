@@ -31,7 +31,7 @@ project:
     - file: unit2.ipynb
 site:
   template: book-theme
-  title: 'Stat 159'
+  title: "Stat 159"
   options:
     logo: 'stat_bear.png'
   nav: []
