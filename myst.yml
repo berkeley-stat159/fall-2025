@@ -108,7 +108,7 @@ site:
     logo: /images/stat_bear.png
     folders: true
   template: book-theme
-  title: 'Stat 159'
+  title: "Stat 159"
   actions:
     - title: Ed
       url: https://edstem.org/us/courses/84806/discussion
