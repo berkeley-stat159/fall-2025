@@ -8,7 +8,6 @@ project:
     - name: Facundo Sapienza (2023 edition)
   copyright: '2025'
   license:
-    # code: MIT
     content: CC-BY-4.0
   github: https://github.com/berkeley-stat159/fall-2025
   thebe:

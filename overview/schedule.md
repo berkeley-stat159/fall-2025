@@ -8,8 +8,8 @@ Not all lectures will have slides associated with them, but for those that do, y
 
 ## Official Schedule
 
-:::{schedule} schedule.yml
-
+:::{schedule}
+schedule.yml
 :::
 
 1. August 27: Logistics, conceptual overview of open science and open source. [Slides here](https://docs.google.com/presentation/d/1tbgKqY2tW-lZsnA1AvwX5azwL4JV2K9F-nFn65CBP5I/edit).
