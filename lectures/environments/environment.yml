@@ -1,0 +1,5 @@
+name: mytestenv
+dependencies:
+  - ipykernel=6.30
+  - python=3.13
+  - tqdm=4.67

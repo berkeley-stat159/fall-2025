@@ -1,40 +1,114 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'Stat 159'
-  description: 'Reproducible and Collaborative Statistical Data Science'
-  keywords: []
-  # authors: ['Instructor Name']
+  title: Collaborative and Reproducible Data Science
+  authors:
+    - name: Fernando Pérez
+    - name: Jimmy Butler
+    - name: Sequoia Andrade
+    - name: Facundo Sapienza (2023 edition)
+  copyright: '2025'
   license:
     # code: MIT
     content: CC-BY-4.0
   github: https://github.com/berkeley-stat159/fall-2025
-  # bibliography: []
-  jupyter:
-    lite: true
-  #thebe:
-  #  lite: true
-    #local:
-    #  url: http://localhost:8888
-    #  token: test-secret
-    #server: true
-    #  url: http://localhost:8888
-    #  token: test-secret
+  thebe:
+    binder:
+      repo: berkeley-stat159/fall-2025
+      provider: github
+      url: https://mybinder.org
+      ref: main
   plugins:
     - schedule.mjs
   toc:
     - file: index.md
-    - file: syllabus.md
-    - file: calendar.md
-    - file: data.md
-    - file: unit1.md
-    - file: unit2.ipynb
+    - title: Overview
+      children:
+        - file: overview/schedule.md
+        - file: overview/syllabus.md
+        - file: overview/references.md
+    - title: Lectures
+      children:
+        - file: lectures/intro-git/intro.ipynb
+          children:
+           - file: lectures/intro-git/configuration.ipynb
+           - file: lectures/intro-git/GHAUTH.ipynb
+           - file: lectures/intro-git/local.ipynb
+           - file: lectures/intro-git/branch.ipynb
+           - file: lectures/intro-git/remote.ipynb
+           - file: lectures/intro-git/conflict.ipynb
+           - file: lectures/intro-git/git-visuals.ipynb
+        - file: lectures/intro-jupyter/Index.ipynb
+          children:
+           - file: lectures/intro-jupyter/01-Intro-Jupyter.ipynb
+           - file: lectures/intro-jupyter/02-Beyond-Plain-Python.ipynb
+           - file: lectures/intro-jupyter/03-Custom-Display-Logic.ipynb
+           - file: lectures/intro-jupyter/04-Rich-Output.ipynb
+           - file: lectures/intro-jupyter/05-widgets-interact.ipynb
+        - file: lectures/modularity/index.ipynb
+          children:
+           - file: lectures/modularity/01-code-preferences.ipynb
+           - file: lectures/modularity/02-code-types.ipynb
+           - file: lectures/modularity/03-modularity.ipynb
+        - file: lectures/testing/index.ipynb
+          children:
+           - file: lectures/testing/simple-numerical-chaos.ipynb
+           - file: lectures/testing/building-blocks.ipynb
+           - file: lectures/testing/simple-tests.ipynb
+        - file: lectures/environments/environments.ipynb
+        - file: lectures/climate-xarray/index.ipynb
+          children:
+            - file: lectures/climate-xarray/climate-data.ipynb
+            - file: lectures/climate-xarray/xarray.ipynb
+           #- file: lectures/testing/workflow.ipynb
+#        - file: lectures/collaboration/index.ipynb
+#          children:
+#            - file: lectures/collaboration/github-workflow.ipynb
+#            - file: lectures/collaboration/rtc.ipynb
+        
+#        - file: lectures/packaging/packaging.ipynb
+#        - file: lectures/serialization/data-serialization.ipynb
+#        - file: lectures/documentation/index.ipynb
+#          children:
+#            - file: lectures/documentation/documentation.ipynb
+#            - file: lectures/documentation/jupyter-book.ipynb
+#        - file: lectures/automation/make.ipynb
+#        - file: lectures/matplotlib_beyond_basics.ipynb
+    - title: Labs
+      children:
+        - file: lab/intro/intro.ipynb
+        - file: lab/lab00/lab00.ipynb
+        - file: lab/lab01/lab01.ipynb
+        - file: lab/lab02/lab02.ipynb
+        - file: lab/lab03/lab03.ipynb
+        - file: lab/lab04/lab04.ipynb
+#        - file: lab/lab05/lab05.ipynb
+#        - file: lab/lab06/lab06.ipynb
+#        - file: lab/lab07/lab07.ipynb
+#        - file: lab/lab08/lab08.ipynb
+    - title: Homework
+    - file: homework/general_info/general_hw_info.md
+      children:
+        - title: Homework 0
+          children:
+            - file: homework/hw00/hw00.md
+        - title: Homework 1 + Peer Review
+          children:
+            - file: homework/hw01/hw01-description.md
+            - file: homework/hw01/hw01-review-description.ipynb
+        - title: Homework 2
+          children:
+            - file: homework/hw02/hw02-description.ipynb
+    - file: ra.md
+    - title: Appendix
+      children:
+        - file: appendix/local-installation.ipynb
+        - file: appendix/contribute.ipynb
 site:
+  options:
+    logo: /images/stat_bear.png
+    folders: true
   template: book-theme
   title: 'Stat 159'
-  options:
-    logo: 'stat_bear.png'
-  nav: []
   actions:
     - title: Ed
       url: https://edstem.org/us/courses/84806/discussion
