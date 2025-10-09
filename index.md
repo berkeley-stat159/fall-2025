@@ -3,7 +3,7 @@ title: 'Stat 159 - Collaborative and Reproducible Data Science'
 subtitle: 'UC Berkeley, Fall 2025'
 ---
 
-::::{grid} 1 2 2 2
+::::{grid} 1 3 3 3
 
 :::{card}
 :header: **Fernando Pérez**
