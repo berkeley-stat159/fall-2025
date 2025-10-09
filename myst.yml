@@ -14,8 +14,8 @@ project:
       provider: github
       url: https://mybinder.org
       ref: main
-  plugins:
-    - schedule.mjs
+#  plugins:
+#    - schedule.mjs
   toc:
     - file: index.md
     - title: Overview
