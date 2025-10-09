@@ -14,7 +14,7 @@ subtitle: 'UC Berkeley, Fall 2025'
 
 * **Office Hours**: Mon 10am-11am (Evans 419); [Zoom session](https://berkeley.zoom.us/j/95027833312?pwd=c60W5ii4fypGD3TUo5GDo1aQL25xES.1) for those who need to join remotely.
 * **Pronouns**: He/Him
-* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
+* [fernando.perez@berkeley.edu](mailto:fernando.perez@berkeley.edu)
 :::
 
 :::{card}
@@ -27,17 +27,17 @@ subtitle: 'UC Berkeley, Fall 2025'
 * **Office Hours**: Wed 1PM-2PM & Thur 10AM-11AM (Evans 428)
 * **Pronouns**: He/Him
 * [butlerj@berkeley.edu](mailto:butlerj@berkeley.edu)
-
 :::
 
+:::{card}
+:header: **Sequoia Andrade**
 ![Sequoia Andrade](images/andrade.jpg)
 
 +++
 
 * **Office Hours**: Tues 1PM-2PM (Evans 428)
-* **Pronouns**: She/her
+* **Pronouns**: She/Her
 * [srandrade@berkeley.edu](mailto:srandrade@berkeley.edu)
-
 :::
 
 ::::
