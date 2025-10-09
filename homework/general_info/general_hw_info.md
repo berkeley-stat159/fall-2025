@@ -1,4 +1,4 @@
-# Homework
+# General HW Info
 
 Homeworks will be announced in Ed Discussion and submitted using GitHub Classroom. The Ed announcement will include a link that you will use to create a 
 repository in the [course GitHub site](https://github.com/UCB-stat-159-s25). In order to submit your homework, you will need to push your last changes to 
