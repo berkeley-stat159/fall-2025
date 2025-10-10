@@ -1,4 +1,4 @@
-# Homework 3: Reproducibility in Climate Studies
+# Project 1: Reproducibility in Climate Studies
 
 * **Statistics 159/259, Fall 2025**
 * **Due 10/23/2025, 11:59PM PT**
