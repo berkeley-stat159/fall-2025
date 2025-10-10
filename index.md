@@ -3,10 +3,11 @@ title: 'Stat 159 - Collaborative and Reproducible Data Science'
 subtitle: 'UC Berkeley, Fall 2025'
 ---
 
+::::{grid} 1 2 2 2
 :::{card}
 :header: **Fernando Pérez**
 
-![Fernando Pérez](images/perez.png)
+![Fernando Pérez](images/perez.jpg)
 
 +++
 
@@ -14,8 +15,6 @@ subtitle: 'UC Berkeley, Fall 2025'
 * **Pronouns**: He/Him
 * [fernando.perez@berkeley.edu](mailto:fernando.perez@berkeley.edu)
 :::
-
-::::{grid} 1 2 2 2
 
 :::{card}
 :header: **Jimmy Butler**
