@@ -88,7 +88,11 @@ project:
         - file: homework/hw00/hw00.md
         - file: homework/hw01/hw01-description.md
         - file: homework/hw01/hw01-review-description.ipynb
-        - file: homework/hw02/hw02-description.ipynb            
+        - file: homework/hw02/hw02-description.ipynb
+    - title: Projects
+      children:
+        - file: projects/general_info/general_info.md
+        - file: projects/proj01/proj01-description.md
     - file: ra.md
     - title: Appendix
       children:
