@@ -3,16 +3,16 @@
 * **Statistics 159/259, Fall 2025**
 * **Due 10/23/2025, 11:59PM PT**
 * Prof. F. Pérez, GSI J. Butler, and GSI S. Andrade, Department of Statistics, UC Berkeley.
-* This assignment is worth a maximum of **50 points**.
-* Assignment type: **group homework assignment**
+* Your score for this assignment is out of **50 points**. This project as a whole accounts for **10% of the final course grade**.
+* Assignment type: **group project assignment**
 
-The assignment content is located in `hw03-climate.ipynb`.
+The assignment content is located in `proj01-climate.ipynb`.
 
 **Deliverables:** For this assignment, you will have a single GitHub repository for your group. Your repository should contain the following:
 
 - One notebook PER QUESTION in the assignment notebook that includes code to create the plots and simulations the question asks for, along with your written responses and discussion. Please remember to use markdown headings for each section/subsection so the entire notebook document is readable. All figures should be both rendered in the notebook and saved in a separate folder called `outputs`.
 
-- Complete the contribution statement in `contribution_statement.md`, briefly and qualitatively detailing eahc group member's contributions to the assignment.
+- Complete the contribution statement in `contribution_statement.md`, briefly and qualitatively detailing each group member's contributions to the assignment.
 
 - An `ai_documentation.txt` file where your group will put any prompts and output from AI companions.
 
