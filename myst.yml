@@ -89,6 +89,7 @@ project:
         - file: homework/hw01/hw01-description.md
         - file: homework/hw01/hw01-review-description.ipynb
         - file: homework/hw02/hw02-description.ipynb
+        - file: homework/hw02/hw02-review-description.ipynb
     - title: Projects
       children:
         - file: projects/general_info/general_info.md
