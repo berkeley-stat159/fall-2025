@@ -41,7 +41,7 @@ subtitle: 'UC Berkeley, Fall 2025'
 
 ::::
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/site/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/berkeley-stat159/fall-2025/HEAD)
 
 This course teaches _the why and how_ of reproducible and collaborative research by combining questions of good computational practice in science, open science and statistical data analysis, in the context of today's research environment.  We will interleave practical topics in software engineering and statistical computing with broader discussions on elements of the
 philosophy of science and the foundations of statistics.
@@ -87,7 +87,7 @@ _Note:_ This course is inspired by, and based on, previous editions taught by my
 
 + Computing resources
     - We will use Jupyter notebooks. We will start with hosted notebooks on our [Stat 159 JupyterHub](https://stat159.datahub.berkeley.edu). Later in the term, we will discuss installing Jupyter on your own device. The JupyterHub server will have all the packages you need pre-installed.
-    - The sources for class notes and most other materials are available [on github](https://github.com/UCB-stat-159-f25/site), with a rendered version [here](https://ucb-stat-159-f25.github.io/site).
+    - The sources for class notes and most other materials are available [on github](https://github.com/berkeley-stat159/fall-2025), with a rendered version [here](https://stat159.berkeley.edu/fall-2025).
     - Assignments should be submitted by pull request to your private repositories using the GitHub Classroom.
     - Whenever you need to work with GitHub, remember to activate GitHub authentication from the JupyterHub. The most convenient way to do this is to keep a notebook with just one cell like this:
     
