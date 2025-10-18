@@ -44,3 +44,6 @@ A running list of the semester's reading assignments will be provided below and 
 + **Week 8**: Due *Friday, October 10 at 11:59PM PT*
     - [Reproducible and Replicable Computational Fluid Dynamics: It’s Harder Than You Think](https://ieeexplore.ieee.org/document/8012284)
     - [The Limits of Reproducibility in Numerical Simulation](https://ieeexplore-ieee-org.libproxy.berkeley.edu/document/5719578)
+
++ **Week 9**: Due *Friday, October 17 at 11:59PM PT*
+    - [Developing open source scientific practice](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf)

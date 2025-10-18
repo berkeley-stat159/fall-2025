@@ -56,19 +56,19 @@ project:
           children:
             - file: lectures/climate-xarray/climate-data.ipynb
             - file: lectures/climate-xarray/xarray.ipynb
+        - file: lectures/packaging/packaging.ipynb
+        - file: lectures/automation/make.ipynb
            #- file: lectures/testing/workflow.ipynb
 #        - file: lectures/collaboration/index.ipynb
 #          children:
 #            - file: lectures/collaboration/github-workflow.ipynb
 #            - file: lectures/collaboration/rtc.ipynb
         
-#        - file: lectures/packaging/packaging.ipynb
 #        - file: lectures/serialization/data-serialization.ipynb
 #        - file: lectures/documentation/index.ipynb
 #          children:
 #            - file: lectures/documentation/documentation.ipynb
 #            - file: lectures/documentation/jupyter-book.ipynb
-#        - file: lectures/automation/make.ipynb
 #        - file: lectures/matplotlib_beyond_basics.ipynb
     - title: Labs
       children:
@@ -88,7 +88,12 @@ project:
         - file: homework/hw00/hw00.md
         - file: homework/hw01/hw01-description.md
         - file: homework/hw01/hw01-review-description.ipynb
-        - file: homework/hw02/hw02-description.ipynb            
+        - file: homework/hw02/hw02-description.ipynb
+        - file: homework/hw02/hw02-review-description.ipynb
+    - title: Projects
+      children:
+        - file: projects/general_info/general_info.md
+        - file: projects/proj01/proj01-description.md
     - file: ra.md
     - title: Appendix
       children:
