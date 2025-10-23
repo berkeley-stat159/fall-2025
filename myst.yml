@@ -58,6 +58,7 @@ project:
             - file: lectures/climate-xarray/xarray.ipynb
         - file: lectures/packaging/packaging.ipynb
         - file: lectures/automation/make.ipynb
+        - file: lectures/documentation/index.ipynb
            #- file: lectures/testing/workflow.ipynb
 #        - file: lectures/collaboration/index.ipynb
 #          children:
