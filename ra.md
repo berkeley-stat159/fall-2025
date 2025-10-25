@@ -52,3 +52,7 @@ A running list of the semester's reading assignments will be provided below and 
     - [Ten simple rules for documenting scientific software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006561)
     - [Ten simple rules for helping newcomers become contributors to open projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296)
     - [Ten Simple Rules for Cultivating Open Science and Collaborative R&D](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003244)
++ **Week 11**: Due *Friday, October 31 at 11:59PM PT*
+    - [Treating Code as an Essay](https://vample.com/ebooks/OReilly.Beautiful.Code.Jun.2007.pdf)
+    - [Strengthening the Case for Pair Programming](http://sunnyday.mit.edu/16.355/williams.pdf)
+    - Note: *Treating Code as an Essay* is Ch. 29 in the above link.
