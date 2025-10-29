@@ -59,13 +59,13 @@ project:
         - file: lectures/packaging/packaging.ipynb
         - file: lectures/automation/make.ipynb
         - file: lectures/documentation/index.ipynb
+        - file: lectures/serialization/data-serialization.ipynb
            #- file: lectures/testing/workflow.ipynb
 #        - file: lectures/collaboration/index.ipynb
 #          children:
 #            - file: lectures/collaboration/github-workflow.ipynb
 #            - file: lectures/collaboration/rtc.ipynb
         
-#        - file: lectures/serialization/data-serialization.ipynb
 #        - file: lectures/documentation/index.ipynb
 #          children:
 #            - file: lectures/documentation/documentation.ipynb
