@@ -56,3 +56,7 @@ A running list of the semester's reading assignments will be provided below and 
     - [Treating Code as an Essay](https://vample.com/ebooks/OReilly.Beautiful.Code.Jun.2007.pdf)
     - [Strengthening the Case for Pair Programming](http://sunnyday.mit.edu/16.355/williams.pdf)
     - Note: *Treating Code as an Essay* is Ch. 29 in the above link.
++ **Week 12**: Due *Friday, November 7 at 11:59PM PT*
+	- [Improving Reproducibility in Earth Science Research](https://eos.org/opinions/improving-reproducibility-in-earth-science-research)
+	- [Science under Societal Scrutiny: Reproducibility in Climate Science](https://onlinelibrary.wiley.com/doi/10.1002/9781118865064.ch12)
+	- [Cloud-Native Repositories for Big Scientific Data](https://ieeexplore.ieee.org/document/9354557)
