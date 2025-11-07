@@ -83,6 +83,7 @@ project:
         - file: lab/lab05_06/lab05.ipynb
         - file: lab/lab07/lab07.ipynb
         - file: lab/lab08/lab08.ipynb
+		- file: lab/lab09/lab09.ipynb
     - title: Homework
       children:
         - file: homework/general_info/general_hw_info.md
