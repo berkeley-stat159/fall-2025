@@ -84,6 +84,7 @@ project:
         - file: lab/lab07/lab07.ipynb
         - file: lab/lab08/lab08.ipynb
         - file: lab/lab09/lab09.ipynb
+        - file: lab/lab10/lab10.ipynb
     - title: Homework
       children:
         - file: homework/general_info/general_hw_info.md
@@ -93,7 +94,6 @@ project:
         - file: homework/hw02/hw02-description.ipynb
         - file: homework/hw02/hw02-review-description.ipynb
         - file: homework/hw03/hw03_description.md
-        - file: homework/hw03/hw03-review-description.ipynb
     - title: Projects
       children:
         - file: projects/general_info/general_info.md
