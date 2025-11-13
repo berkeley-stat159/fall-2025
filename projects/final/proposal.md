@@ -32,3 +32,8 @@ What question(s) do you intend to explore/ask with your dataset? Roughly speakin
 3. Expected Challenges
 
 What challenges do you expect in carrying out your analysis (computational, data storage, etc.)? What plans do you have in-place to manage these challenges as they arise?
+
+## Potential Data Sources
+
++ [California Open Data Portal](https://data.ca.gov/)
++ [US Government Open Data](https://data.gov/)
