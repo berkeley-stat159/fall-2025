@@ -103,6 +103,7 @@ project:
         - title: Final Project
           children:
           - file: projects/final/proposal.md
+          - file: projects/final/project-description.md
     - file: ra.md
     - title: Appendix
       children:
