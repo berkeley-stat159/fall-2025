@@ -60,7 +60,10 @@ A running list of the semester's reading assignments will be provided below and 
 	- [Improving Reproducibility in Earth Science Research](https://eos.org/opinions/improving-reproducibility-in-earth-science-research)
 	- [Science under Societal Scrutiny: Reproducibility in Climate Science](https://onlinelibrary.wiley.com/doi/10.1002/9781118865064.ch12)
 	- [Cloud-Native Repositories for Big Scientific Data](https://ieeexplore.ieee.org/document/9354557)
-+ + **Week 13**: Due *Monday, November 17 at 11:59PM PT*
++ **Week 13**: Due *Monday, November 17 at 11:59PM PT*
 	- [Open Source Software Policy Options for NASA Earth and Space Sciences (Ch. 4 only!)](https://nap.nationalacademies.org/catalog/25217/open-source-software-policy-options-for-nasa-earth-and-space-sciences)
 	- [Open Science by Design (Ch. 4 only!)](https://www.ncbi.nlm.nih.gov/books/NBK525417/)
 	- [How to Scale a Code in the Human Dimension](https://arxiv.org/abs/1301.7064)
++ **Week 15**: Due *Tuesday, December 2 at 12:00PM PT*
+    - [50 Years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734#abstract)
+    - [Data Science at the Singularity](https://hdsr.mitpress.mit.edu/pub/g9mau4m0/release/2)
